@@ -1,10 +1,10 @@
 # fluffy-train
 Pluralsight GitHub getting started tutorial
 
-##GitHub Getting Started
+## GitHub Getting Started
 Learn to use GitHub with ease. 
 
-####The Basics:
+#### The Basics:
 - Understand the use of GitHub
 - Create repos
 - Work with Git and GitHub locally

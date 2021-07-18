@@ -8,5 +8,7 @@ Search…
  
 Join Stack Overflow to learn, share knowledge, and build your career.
 
-Installation
--------------------------
+Troubleshooting:
+--------------------
+
+
